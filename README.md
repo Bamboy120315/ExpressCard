@@ -56,5 +56,5 @@
 本文github链接：  
 https://github.com/Bamboy120315/ExpressCard
 
-也可以先下载apk安装体验：
+也可以先下载apk安装体验：  
 ![扫码下载apk](https://img-blog.csdnimg.cn/2019031209591252.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhbWJveV8=,size_16,color_FFFFFF,t_70)
