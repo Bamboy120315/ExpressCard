@@ -1,11 +1,11 @@
-package com.bamboy.expresscarddemo.viewpager;
+package com.bamboy.expresscard.viewpager;
 
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.bamboy.expresscarddemo.fragment.CardFragment;
+import com.bamboy.expresscard.fragment.CardFragment;
 
 import java.util.List;
 

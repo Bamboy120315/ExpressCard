@@ -1,15 +1,15 @@
-package com.bamboy.expresscarddemo;
+package com.bamboy.expresscard;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.bamboy.expresscarddemo.fragment.BeanExpress;
-import com.bamboy.expresscarddemo.fragment.CardFragment;
-import com.bamboy.expresscarddemo.viewpager.CardTransformer;
-import com.bamboy.expresscarddemo.viewpager.CardViewPagerAdapter;
-import com.bamboy.expresscarddemo.viewpager.UtilShowAnim;
+import com.bamboy.expresscard.fragment.BeanExpress;
+import com.bamboy.expresscard.fragment.CardFragment;
+import com.bamboy.expresscard.viewpager.CardTransformer;
+import com.bamboy.expresscard.viewpager.CardViewPagerAdapter;
+import com.bamboy.expresscard.viewpager.UtilShowAnim;
 
 import java.util.ArrayList;
 import java.util.List;

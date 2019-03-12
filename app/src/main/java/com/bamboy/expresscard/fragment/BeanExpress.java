@@ -1,4 +1,4 @@
-package com.bamboy.expresscarddemo.fragment;
+package com.bamboy.expresscard.fragment;
 
 import java.util.List;
 

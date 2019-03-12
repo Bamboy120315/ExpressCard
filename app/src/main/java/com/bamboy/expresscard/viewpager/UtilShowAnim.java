@@ -1,4 +1,4 @@
-package com.bamboy.expresscarddemo.viewpager;
+package com.bamboy.expresscard.viewpager;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

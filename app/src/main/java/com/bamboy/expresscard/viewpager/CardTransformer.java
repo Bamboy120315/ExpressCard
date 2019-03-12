@@ -1,4 +1,4 @@
-package com.bamboy.expresscarddemo.viewpager;
+package com.bamboy.expresscard.viewpager;
 
 import android.support.annotation.NonNull;
 import android.support.v4.view.ViewPager;

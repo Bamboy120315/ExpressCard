@@ -1,4 +1,4 @@
-package com.bamboy.expresscarddemo;
+package com.bamboy.expresscard;
 
 import org.junit.Test;
 
